@@ -21,6 +21,10 @@ You can look under the `Guides` or `Talking Points`, to see articles contributor
 
 ### Begin writing!
 
+TODO
+
 ### Upload your contributions!
 
-When you've written an article or 
+You'll need to request permissions from Patrick (_linkion) on discord to begin pushing your changes!
+
+TODO
