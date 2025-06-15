@@ -7,6 +7,7 @@ This is a repository of information, made by and for the DGG Political Action gr
 You can look under the `Guides` or `Talking Points`, to see articles contributors have made to help you in convincing others to stand up for Democracy and how to converse to fight for what we stand for.
 
 ## Contributing Guide
+### Setup the vault
 
 1. Setup a Github account if you don't already have one
 2. Install Obsidian, you can find the download page [here](https://obsidian.md/download)
@@ -17,3 +18,9 @@ You can look under the `Guides` or `Talking Points`, to see articles contributor
 	3. run `gh auth setup-git` to setup your git with Github
 5. Clone the repository by running `gh repo clone linkion/dgg-talking-points-repo` or `git clone https://github.com/linkion/dgg-talking-points-repo.git` in your terminal inside the folder you want the repo folder to be created
 6. Open up Obsidian and open the repo with the "Open folder as vault" button.
+
+### Begin writing!
+
+### Upload your contributions!
+
+When you've written an article or 
