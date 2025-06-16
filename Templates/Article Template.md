@@ -1,5 +1,6 @@
 ---
-author:
+author: 
+tags:
 ---
 %% Write your article here and insert your author page in the `author` property with \[\[Your Name\]\] %%
 ## What is Lorem Ipsum?
