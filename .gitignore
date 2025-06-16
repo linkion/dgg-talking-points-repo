@@ -4,7 +4,7 @@ vault/.trash/
 .DS_Store
 
 public/
-resources/
+resources/_gen/
 
 # Devenv
 .devenv*
