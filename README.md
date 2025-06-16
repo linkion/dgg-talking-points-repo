@@ -32,4 +32,7 @@ To begin writing:
 
 You'll need to request permissions from Patrick (_linkion) on discord to begin pushing your changes!
 
-TODO
+1. Make sure you have `git` and `gh` setup, and that you are made a contributor on the Github Repo by Patrick
+2. After making your change, open the Git Source Control Panel ![[Screenshot 2025-06-15 at 7.54.53 PM.png]]
+3. Stage the changes that you'd like to publish
+4. Write your commit message, describing your changes in a short sentence![[Screenshot 2025-06-15 at 7.56.30 PM.png]]
