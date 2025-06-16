@@ -17,14 +17,14 @@ You can look under the `Guides` or `Talking Points`, to see articles contributor
 	2. Open a terminal, login to Github with `gh auth login`, you should see a code that you need to copy and then hit <Enter> to open the URL in your browser, logging in with your Github account then paste the code, then hit allow
 	3. run `gh auth setup-git` to setup your git with Github
 5. Clone the repository by running `gh repo clone linkion/dgg-talking-points-repo` or `git clone https://github.com/linkion/dgg-talking-points-repo.git` in your terminal inside the folder you want the repo folder to be created
-6. Open up Obsidian and open the repo with the "Open folder as vault" button.
+6. Open up Obsidian and open the folder `vault` in your `dgg-talking-points-repo` folder with the "Open folder as vault" button.
 
 ### Begin writing!
 
 To begin writing:
 1. open the Obsidian Vault
 2. Create a contributor profile under `Contributors` for yourself, with the note name being your name
-3. Right click a folder you want to begin writing in, and hit `New Note` ![[Screenshot 2025-06-15 at 7.24.47 PM.png]]
+3. Right click a folder you want to begin writing in, and hit `New Note` ![Screenshot 2025-06-15 at 7.24.47 PM.png](vault/0 Attachments/Screenshot 2025-06-15 at 7.24.47 PM.png)
 4. A template should be automaticaly applied with some properties, a Lorem Ipsum, and some footnotes
 5. Go ahead and write away, paste what you want, and be sure at the end to apply some tags that you think are relevant to your article
 

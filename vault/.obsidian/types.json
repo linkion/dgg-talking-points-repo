@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "params": "multitext",
+    "draft": "checkbox",
+    "authors": "multitext",
+    "author": "multitext"
+  }
+}

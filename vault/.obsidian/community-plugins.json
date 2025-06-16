@@ -2,5 +2,6 @@
   "obsidian-git",
   "templater-obsidian",
   "dataview",
-  "obsidian-view-mode-by-frontmatter"
+  "obsidian-view-mode-by-frontmatter",
+  "obsidian-meta-bind-plugin"
 ]

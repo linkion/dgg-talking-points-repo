@@ -1,4 +1,7 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'DGG Political Action'
 theme = 'ananke'
+
+[taxonomies]
+  author = "authors"
