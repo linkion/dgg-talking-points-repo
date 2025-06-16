@@ -1,4 +1,17 @@
-.obsidian/workspace.json
+vault/.obsidian/workspace.json
 
-.trash/
+vault/.trash/
 .DS_Store
+
+public/
+resources/
+
+# Devenv
+.devenv*
+devenv.local.nix
+
+# direnv
+.direnv
+
+# pre-commit
+.pre-commit-config.yaml

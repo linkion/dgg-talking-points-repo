@@ -36,3 +36,7 @@ You'll need to request permissions from Patrick (_linkion) on discord to begin p
 2. After making your change, open the Git Source Control Panel ![[Screenshot 2025-06-15 at 7.54.53 PM.png]]
 3. Stage the changes that you'd like to publish
 4. Write your commit message, describing your changes in a short sentence![[Screenshot 2025-06-15 at 7.56.30 PM.png]]
+5. You have 2 options
+	1. Hit the `Commit` button to commit, then hit the `Push` button to upload
+	2. hit `Commit-and-sync` to commit and then immediately upload
+6. Congrats, you've uploaded your contribution
