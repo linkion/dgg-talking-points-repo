@@ -1,4 +1,4 @@
 rm -rf content/*
-obsidian-export vault/ content/ --frontmatter always
+nix run nixpkgs#obsidian-export -- vault/ content/ --frontmatter always
 # bin/make-index-files content/
 git add -A content/
