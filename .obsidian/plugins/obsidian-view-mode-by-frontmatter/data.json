@@ -1,0 +1,21 @@
+{
+  "debounceTimeout": 300,
+  "ignoreOpenFiles": false,
+  "ignoreForceViewAll": false,
+  "folders": [
+    {
+      "folder": "",
+      "viewMode": ""
+    }
+  ],
+  "files": [
+    {
+      "filePattern": "Home",
+      "viewMode": "obsidianUIMode: preview"
+    },
+    {
+      "filePattern": "README",
+      "viewMode": "obsidianUIMode: preview"
+    }
+  ]
+}
