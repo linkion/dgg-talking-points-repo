@@ -23,9 +23,10 @@ You can look under the `Guides` or `Talking Points`, to see articles contributor
 
 To begin writing:
 1. open the Obsidian Vault
-2. Right click a folder you want to begin writing in, and hit `New Note` ![[Screenshot 2025-06-15 at 7.24.47 PM.png]]
-3. A template should be automaticaly applied with some properties, a Lorem Ipsum, and some footnotes
-4. Go ahead and write away, paste what you want, and be sure at the end to apply some tags that you think are relevant to your article
+2. Create a contributor profile under `Contributors` for yourself, with the note name being your name
+3. Right click a folder you want to begin writing in, and hit `New Note` ![[Screenshot 2025-06-15 at 7.24.47 PM.png]]
+4. A template should be automaticaly applied with some properties, a Lorem Ipsum, and some footnotes
+5. Go ahead and write away, paste what you want, and be sure at the end to apply some tags that you think are relevant to your article
 
 ### Upload your contributions!
 
