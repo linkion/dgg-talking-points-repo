@@ -4,7 +4,7 @@ author:
 tags:
   - MAGA
   - Abortion
-draft: true
+draft: false
 title: Example
 date: 2025-06-16T15:16:18-05:00
 ---
