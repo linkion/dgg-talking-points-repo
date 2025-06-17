@@ -6,6 +6,7 @@
     "params": "multitext",
     "draft": "checkbox",
     "authors": "multitext",
-    "author": "multitext"
+    "author": "multitext",
+    "menus": "multitext"
   }
 }
