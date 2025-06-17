@@ -1,3 +1,0 @@
-rm -rf content/*
-nix run nixpkgs#obsidian-export -- vault/ content/ --frontmatter always
-# bin/make-index-files content/
