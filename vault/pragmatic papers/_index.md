@@ -2,7 +2,7 @@
 author: 
 tags: 
 draft: false
-title: _index
+title: Pragmatic Papers
 date: 2025-06-17T11:49:15-05:00
 menus:
   - main
