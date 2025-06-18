@@ -3,6 +3,8 @@ languageCode = 'en-us'
 title = 'DGG Political Action'
 
 [taxonomies]
+  category = "categories"
+  tag = "tags"
   author = "authors"
 
 [module]
