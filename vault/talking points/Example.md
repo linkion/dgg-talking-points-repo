@@ -5,7 +5,7 @@ tags:
   - MAGA
   - Abortion
   - 2016Election
-draft: true
+draft: false
 title: Example
 date: 2025-06-16T15:16:18-05:00
 ---
