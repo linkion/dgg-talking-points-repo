@@ -5,7 +5,7 @@
   env.GREET = "devenv";
 
   # https://devenv.sh/packages/
-  packages = [ pkgs.git pkgs.hugo pkgs.husky pkgs.obsidian-export ];
+  packages = [ pkgs.git pkgs.hugo pkgs.husky pkgs.obsidian-export pkgs.dart-sass ];
 
   # https://devenv.sh/languages/
   # languages.rust.enable = true;
