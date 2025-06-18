@@ -7,6 +7,9 @@ title = 'DGG Political Action'
   tag = "tags"
   author = "authors"
 
+[params]
+  favicon = "favicon.ico"
+
 [module]
 [[module.imports]]
 disable = false
